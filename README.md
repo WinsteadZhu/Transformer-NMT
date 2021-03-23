@@ -1,4 +1,4 @@
-# Transformer-NMT
+# Transformer-Neural-Machine-Translation
 
 Implement a transformer neural machine translation system.
 
